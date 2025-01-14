@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  
+}
+
+.pdf-to-summary{
+  background: linear-gradient(to bottom, #f2d9eb, #FCF5FD)
+  /* background-color: aqua; */
+}
