@@ -1,0 +1,92 @@
+.bgcolor{
+    background: linear-gradient(to bottom, #f2d9eb, #FCF5FD);
+}
+
+
+.container{
+    width: 60%;
+}
+.container-fluid{
+    width: 93%;
+    overflow: hidden;
+}
+.upload-tx{
+    color: rgba(105, 65, 198, 1);
+
+}
+.upload-section{
+    width: Fill (719px)px;
+    height: Hug (126px)px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+ .upload-box {
+    width: Fill (719px)px;
+    height: Hug (126px)px;
+    gap: 16px;
+    opacity: 0px;
+
+ }
+ .upload-section{
+    background-color:  rgba(255, 255, 255, 1);
+    width: Fill (719px)px;
+    height: Hug (126px)px;
+    border-radius: 12px ;
+
+ }
+
+ .upload-img-container{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #ffffff;
+    margin-left: 6rem;
+
+ }
+
+ .upload-img{
+    width: 30px;
+    height: 40px;
+    top: 10px;
+    left: 10px;
+ }
+
+.up-color{
+    color: rgba(105, 65, 198, 1);
+}
+
+.upload-box{
+    width: Fill (719px)px;
+    height: Hug (126px)px;
+    gap: 16px;
+    opacity: 0px;
+}
+
+.cards{
+    width: 228.39px;
+    height: 236.85px;
+    gap: 0px;
+    border-radius: 10.15px 0px 0px 0px;
+    border: 0.85px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+
+/* card  */
+.card{
+    height: 200px;
+    width: auto;
+    background-color: #f2d9eb00;
+    border: none;
+}
+
+.btn{
+    position: relative;
+}
+
+  
+  
+
+  
