@@ -1,0 +1,30 @@
+.background-gradient {
+  background: linear-gradient(to bottom, #f2d9eb,#FCF5FD)!important;
+  min-height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px; /* Optional: Adds some padding */
+}
+
+  .question-section{
+    width:70%;
+  }
+
+  .btn1{
+    background: linear-gradient(90deg, #4B39DA 0%, #CC2C6B 100%);
+    color:white;
+    border: none;
+  }
+
+  .btn1:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  @media (max-width: 768px) {
+    .question-section{
+      width: 100%;
+    }
+   
+  }

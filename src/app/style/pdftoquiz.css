@@ -1,0 +1,26 @@
+.background-gradient {
+     background: linear-gradient(to bottom, #f2d9eb, #FCF5FD);
+     min-height: 100vh; 
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.btn-outline-secondary.active {
+    background-color: transparent;
+    border-color: #a00; /* Change to your desired active border color */
+    color: #a00; /* Change to your desired active text color */
+  }
+
+
+  .btn-1{
+    background: linear-gradient(90deg, #4B39DA 0%, #CC2C6B 100%) !important;
+    color:white;
+    border: none;
+  }
+
+  .btn-1:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  }
